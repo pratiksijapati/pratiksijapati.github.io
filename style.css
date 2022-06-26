@@ -1,0 +1,13 @@
+h1{
+    color: chocolate;
+}
+h2{
+    background : red;
+    width : 20%;
+    border : 3px solid blue;
+}
+h3{
+    color: violet;
+    border: 4px solid green;
+    background: red;
+    width: 20%
